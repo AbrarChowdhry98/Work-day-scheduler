@@ -14,7 +14,7 @@ SO THAT I can manage my time effectively
 
 
 # Screenshot for Work Day Scheduler
-![Work-Day-Schedule-screenshot 2021-07-25 004749]()
+![Work-Day-Schedule-screenshot 2021-07-25 004749](https://github.com/AbrarChowdhry98/Work-day-scheduler/blob/main/assets/images/Screenshot%202021-10-24%20150844.jpg)
 
 
 # Webpage URL
