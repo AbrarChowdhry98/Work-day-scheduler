@@ -10,7 +10,7 @@ SO THAT I can manage my time effectively
 
 
 # Work Day Scheduler Markup
-![05-third-party-apis-homework-demo]()
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/57843842/126826450-742ef873-cfae-426b-90bf-abcecb5337f1.gif)
 
 
 # Screenshot for Work Day Scheduler
@@ -18,11 +18,11 @@ SO THAT I can manage my time effectively
 
 
 # Webpage URL
-
+https://abrarchowdhry98.github.io/Work-day-scheduler/
 
 
 # Abrar Chowdhry GitHub Repository
-
+https://github.com/AbrarChowdhry98/Work-day-scheduler
 
 
 # Acceptance Criteria
